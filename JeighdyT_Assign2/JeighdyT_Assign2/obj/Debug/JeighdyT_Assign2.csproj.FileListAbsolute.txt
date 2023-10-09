@@ -1,0 +1,44 @@
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe.config
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.AssemblyReference.cache
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.QuantitySoldLabelBut.resources
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.Properties.Resources.resources
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.GenerateResource.cache
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe.config
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.AssemblyReference.cache
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.QuantitySoldLabelBut.resources
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.Properties.Resources.resources
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.GenerateResource.cache
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe.config
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.AssemblyReference.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.QuantitySoldLabelBut.resources
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.Properties.Resources.resources
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.GenerateResource.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\JeighdyT_Assign2\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe.config
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\bin\Debug\JeighdyT_Assign2.pdb
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.AssemblyReference.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.QuantitySoldLabelBut.resources
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.Properties.Resources.resources
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.GenerateResource.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.exe
+C:\Users\Jeighdy\Desktop\DOUGLAS SCHOOL(DONE)\Intro to Program\Grocery Management System\JeighdyT_Assign2\JeighdyT_Assign2\obj\Debug\JeighdyT_Assign2.pdb
